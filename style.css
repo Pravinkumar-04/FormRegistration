@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 :root {
   --success-color: #2ecc71;
@@ -11,6 +10,7 @@
 
 body {
   background-color: #FFF8DE;
+  font-family: 'Open Sans';;
   font-family: 'Open Sans', sans-serif;
   display: flex;
   align-items: center;
