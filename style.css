@@ -138,7 +138,7 @@ h2 {
     0deg, 
     transparent, 
     transparent 30%, 
-    rgba(0,255,255,0.3)
+    rgba(0, 0, 0, 0.64)
   );
   transform: rotate(-45deg);
   transition: all 0.5s ease;
@@ -147,7 +147,8 @@ h2 {
 
 .form button:hover {
   transform: scale(1.05);
-  box-shadow: 0 0 20px rgba(0,255,255,0.5);
+  background-color: rgb(4, 79, 146);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 .form button:hover::before {
